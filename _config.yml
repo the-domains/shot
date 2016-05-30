@@ -2,6 +2,7 @@ name: SHOT
 favicon: null
 layout_spectrum: 0.34441342088393867
 typography_spectrum: 0.6475438913330436
+title: SHOT
 cta:
   domain: null
   bucket: null
