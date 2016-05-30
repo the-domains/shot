@@ -1,0 +1,28 @@
+name: SHOT
+favicon: null
+layout_spectrum: 0.34441342088393867
+typography_spectrum: 0.6475438913330436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.191037722164765
+  lightness: 0.35494789853692055
+  saturation: 0.5250603284221143
+  rhythmicContrast: 0.8380708692129701
+purpose: []
